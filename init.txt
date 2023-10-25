@@ -47,7 +47,7 @@ Hello Everyone!
 
 I’m Aje Oluwaseun Isaac
 
-I use animation as a third dimension by which to simplify experiences and kuiding thro each and every interaction. I’m not adding motion just to spruce things up, but doing it in ways that.
+A Frontend Developer, Intermediate level experience in web design and development knowledge, creating responsive and pixel perfect websites.
 
 placeholder = Type your email address
 
@@ -56,7 +56,7 @@ Subscribe
 
 alt = Aje Oluwaseun Isaac
 
-alt = shape
+alt = shapes
 
 
 
